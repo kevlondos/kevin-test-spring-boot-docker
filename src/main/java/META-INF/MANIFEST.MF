@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.kevin.spring.boot.docker.kevintestspringbootdocker.Kev
+ inTestSpringBootDockerApplication
+
